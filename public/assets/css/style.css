@@ -30,6 +30,13 @@ body {
   padding-top: 15px;
 }
 
+.note-id {
+  color: #000000;
+  width: 100%;
+  outline: none;
+  border: none;
+}
+
 .note-title {
   height: 50px;
   margin-top: 13px;
